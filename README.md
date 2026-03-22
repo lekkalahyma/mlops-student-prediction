@@ -1,6 +1,6 @@
 # Clone repo
-git clone https://github.com//end-to-end-mlops-student-prediction.git
-cd end-to-end-mlops-student-prediction
+git clone https://github.com/lekkalahyma/mlops-student-prediction.git
+cd mlops-student-prediction
 
 # Install dependencies
 pip install -r requirements.txt
